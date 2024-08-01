@@ -8,3 +8,6 @@ Employee attrition, also known as employee turnover, refers to the rate at which
 
 ![image](https://github.com/user-attachments/assets/24333a23-e7c6-4450-b287-1bd978721822)
 
+![image](https://github.com/user-attachments/assets/933eef4c-623c-4cd8-a203-6f5087dbee1c)
+
+
