@@ -1,12 +1,8 @@
 # Attrition-Rate-Prediction
 
-https://blogimage.vantagecircle.com/content/images/2023/11/Employee-Attrition--Meaning--Types--Reason--and-How-to-Reduce.png
-
-
-## What is Attrition Rate
-
 ![Employee-Attrition--Meaning--Types--Reason--and-How-to-Reduce](https://github.com/user-attachments/assets/db0a9c02-8cbe-47db-b149-89f2d87944cd)
 
+## What is Attrition Rate
 
 Employee attrition, also known as employee turnover, refers to the rate at which employees leave an organization over a certain period. In a machine learning context, an employee attrition model aims to predict whether an employee is likely to leave the company based on various features and historical data.
 
